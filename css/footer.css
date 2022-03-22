@@ -8,8 +8,9 @@
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 100px;
+  gap: 140px;
   align-items: center;
+
 }
 
 .footer-texto {
